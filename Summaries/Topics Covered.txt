@@ -1,0 +1,29 @@
+// Basics:
+
+1. Types of variables 
+2. Operating with variables
+3. Logical variables and Operators
+4. Loops
+    i. While loop
+    ii. For loop
+5. Conditions
+    i. If Statement
+    ii. Elif Statement 
+    iii. Chained statement
+7. Random Variables and What is Numpy?
+
+PROBLEM 1 :Law of Large numbers [LLN] 
+
+// Fundamentals:
+
+1. What is list?
+2. Created lists and worked on range
+3. Using square brackets
+4. Slicing lists
+5. Tuples
+6. Functions
+7. Packages
+8. Numpy and Arrays
+9. Array operations and slicing arrays
+
+PROBLEM 2 : Financial Statement Analysis
